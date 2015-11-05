@@ -1,0 +1,15 @@
+|Import  |
+|fixtures|
+
+|Script:calculator fixture  |
+|left operand |3            |
+|right operand|3            |
+|operator     |x            |
+|check        |calculate|9.0|
+|operator     |:            |
+|check        |calculate|1.0|
+|operator     |+            |
+|check        |calculate|6.0|
+|operator     |-            |
+|check        |calculate|0.0|
+

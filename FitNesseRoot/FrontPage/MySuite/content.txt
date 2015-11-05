@@ -1,0 +1,5 @@
+!define TEST_SYSTEM {slim} 
+!path ../target/fitNesseJUnitIntegration-1.0.jar
+
+!1 Test suite
+!contents -R2 -g -p -f -h
